@@ -1,0 +1,13 @@
+NAME="Clear Arch"
+PRETTY_NAME="Clear Arch"
+ID=cleararch
+BUILD_ID=rolling
+ANSI_COLOR=""
+HOME_URL="https://cleararch.github.io/"
+DOCUMENTATION_URL="https://cleararch.github.io/wiki/"
+SUPPORT_URL=""
+BUG_REPORT_URL=""
+PRIVACY_POLICY_URL=""
+LOGO=cleararch-logo
+IMAGE_ID=CALIVE
+IMAGE_VERSION=2023.03.05
